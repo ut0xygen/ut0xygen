@@ -22,6 +22,7 @@ REF: https://docs.github.com/ja/get-started/writing-on-github/getting-started-wi
 
 ### Services
 <img src="https://skillicons.dev/icons?i=gcp,firebase,supabase,cloudflare"/>
+*GCP: Cloud Storage, Cloud SQL, Cloud Run, Identity Platform, Artifact Repository, Secret Manager
 
 ### DB
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
