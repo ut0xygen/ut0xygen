@@ -10,31 +10,7 @@ REF: https://docs.github.com/ja/get-started/writing-on-github/getting-started-wi
 -->
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=go,py,ts,cs,cpp"/>
-
-## Web  
-<img src="https://skillicons.dev/icons?i=nodejs,pnpm,npm"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=ts,react,remix,vite,tailwind,html,css"/>
-
-## Infra
-
-### Services
-<img src="https://skillicons.dev/icons?i=gcp,firebase,supabase,cloudflare"/>
-*GCP: Cloud Storage, Cloud SQL, Cloud Run, Identity Platform, Artifact Repository, Secret Manager
-
-### DB
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=docker,nginx,terraform"/>
-
-## ML Libs
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=cs,py,ts,cpp"/>
 
 ## OS
-<img src="https://skillicons.dev/icons?i=ubuntu,arch,windows"/>
-
-## Others
-<img src="https://skillicons.dev/icons?i=vscode,git,md,regex,svg,figma,latex"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,windows"/>
